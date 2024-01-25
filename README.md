@@ -1,0 +1,4 @@
+# CSC 2510 003 <br>
+Intro to DevOps with Unix <br>
+## About Isaac James Essex <br>
+I am a double major in mathematics and computer science and tremendiously enjoy playing a video game called Splatoon. I actually played this game competively for a breif period of time, which was a great deal of fun. Additionally, I've also worked lightly in homebrewing game consoles. I've made a couple of 3DS themes, ripped some audio files from various sources, imported some brand new and lightly modified some preexisting elements in various games, and most prominently, sodered a custom-made usb port to the CPU of an N64 (yes this actually worked; it wasn't my idea; i saw it on a youtube tutorial; it makes downloading and playing games natively way easier). I also really like math. Specifically, proof writing and computational math are my two favorite facets and time killers. Programming is fun too, but it's certainly secondary to mathematics.
